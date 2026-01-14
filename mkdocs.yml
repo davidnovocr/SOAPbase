@@ -9,21 +9,21 @@ theme:
     text: Roboto
     code: Roboto Mono
 nav:
-  - Inicio: Index.md
+  - Inicio: index.md
   - Equipo de ventas:
     - Appointment Setting:
-      - Setting: Setting.md
-      - Triage: Triage.md
+      - Setting: setting.md
+      - Triage: triage.md
     - Closing de ventas:
-      - Closing: Closing.md
-      - Manejo de Objeciones: ManejoObjeciones.md
+      - Closing: closing.md
+      - Manejo de Objeciones: manejoObjeciones.md
 
   - Herramientas de ventas:
-    - Presentación de ventas: PresentacionVentas.md
-    - Formulario cliente nuevo: FormularioNuevoCliente.md
-    - Links de pago: LinksPago.md
+    - Presentación de ventas: presentacionVentas.md
+    - Formulario cliente nuevo: formularioNuevoCliente.md
+    - Links de pago: linksPago.md
 
   - Uso del sistema:
-    - Calendarios: Calendarios.md
-    - Conversaciones: Conversaciones.md
-    - Pipeline: Pipeline.md
+    - Calendarios: calendarios.md
+    - Conversaciones: conversaciones.md
+    - Pipeline: pipeline.md
