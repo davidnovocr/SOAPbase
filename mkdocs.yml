@@ -1,0 +1,29 @@
+site_name: SOP de ventas by David Novo
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: cyan
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+nav:
+  - Inicio: Index.md
+  - Equipo de ventas:
+    - Appointment Setting:
+      - Setting: Setting.md
+      - Triage: Triage.md
+    - Closing de ventas:
+      - Closing: Closing.md
+      - Manejo de Objeciones: ManejoObjeciones.md
+
+  - Herramientas de ventas:
+    - Presentación de ventas: PresentacionVentas.md
+    - Formulario cliente nuevo: FormularioNuevoCliente.md
+    - Links de pago: LinksPago.md
+
+  - Uso del sistema:
+    - Calendarios: Calendarios.md
+    - Conversaciones: Conversaciones.md
+    - Pipeline: Pipeline.md
